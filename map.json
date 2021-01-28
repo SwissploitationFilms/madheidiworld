@@ -55,7 +55,11 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
+<<<<<<< HEAD
                  "value":"https:\/\/www.madheidi.com"
+=======
+                 "value":"..\/Lyon\/lyon.json"
+>>>>>>> parent of 22c3fc2... Update map.json
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -162,7 +166,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.3.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -919,6 +923,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":1.2,
  "width":46
 }
