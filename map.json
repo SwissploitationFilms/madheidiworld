@@ -195,6 +195,7 @@
                  "type":"string",
                  "value":"https:\/\/padlet.com\/MadHeidi\/64l2mffnsajokbb3"
                 }],
+         "tintcolor":"#0a6432",
          "type":"tilelayer",
          "visible":true,
          "width":46,
