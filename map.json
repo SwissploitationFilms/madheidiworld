@@ -263,21 +263,21 @@
                  "y":108.481238101087
                 }, 
                 {
-                 "height":289.283301602898,
-                 "id":3,
+                 "height":281.818181818182,
+                 "id":6,
                  "name":"",
                  "properties":[
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/meet.jit.si\/madheidi"
                         }],
-                 "rotation":0,
+                 "rotation":314.140990356102,
                  "type":"",
                  "visible":true,
-                 "width":209.730393662102,
-                 "x":1077.5802984708,
-                 "y":645.463366701468
+                 "width":178.181818181818,
+                 "x":658.571289410895,
+                 "y":770.285162533281
                 }],
          "offsetx":-14.464165080145,
          "offsety":-334.483817478352,
@@ -312,7 +312,7 @@
          "y":0
         }],
  "nextlayerid":26,
- "nextobjectid":5,
+ "nextobjectid":7,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
