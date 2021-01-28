@@ -246,6 +246,7 @@
          "y":0
         }, 
         {
+         "color":"#140000",
          "draworder":"topdown",
          "id":24,
          "name":"Object Layer 2",
