@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/madheidi.com"
+                 "value":"https:\/\/www.madheidi.com"
                 }],
          "type":"tilelayer",
          "visible":true,
