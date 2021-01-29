@@ -723,11 +723,11 @@
                 {
                  "animation":[
                         {
-                         "duration":90,
+                         "duration":600,
                          "tileid":78
                         }, 
                         {
-                         "duration":200,
+                         "duration":600,
                          "tileid":62
                         }],
                  "id":78
