@@ -242,6 +242,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"playAudio",
+                 "type":"file",
+                 "value":"swoosh.mp3"
+                }, 
+                {
                  "name":"startLayer",
                  "type":"bool",
                  "value":true
