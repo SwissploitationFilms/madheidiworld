@@ -205,11 +205,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/padlet.com\/MadHeidi\/64l2mffnsajokbb3"
-                }, 
-                {
-                 "name":"playAudio",
-                 "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/swissploitationfilms.github.io\/madheidiworld\/Level_1.mp3"
                 }],
          "tintcolor":"#ece4cc",
          "type":"tilelayer",
@@ -268,8 +263,8 @@
                 }, 
                 {
                  "name":"playAudio",
-                 "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/swissploitationfilms.github.io\/madheidiworld\/swoosh.mp3"
+                 "type":"file",
+                 "value":"swoosh.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
