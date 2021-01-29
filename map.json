@@ -129,6 +129,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/zermatt.roundshot.com"
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"file",
+                 "value":"Wind.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
