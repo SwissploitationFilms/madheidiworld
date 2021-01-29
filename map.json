@@ -138,6 +138,8 @@
          "height":34,
          "id":15,
          "name":"Spotify",
+         "offsetx":0,
+         "offsety":-1,
          "opacity":1,
          "properties":[
                 {
