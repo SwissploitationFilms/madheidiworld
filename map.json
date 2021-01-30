@@ -318,6 +318,46 @@
                  "width":89.546875,
                  "x":288.2265625,
                  "y":133.396306818182
+                }, 
+                {
+                 "gid":330,
+                 "height":32,
+                 "id":21,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":676,
+                 "y":222.818181818182
+                }, 
+                {
+                 "height":0,
+                 "id":22,
+                 "name":"",
+                 "polygon":[
+                        {
+                         "x":0,
+                         "y":0
+                        }, 
+                        {
+                         "x":-4,
+                         "y":79
+                        }, 
+                        {
+                         "x":71,
+                         "y":78
+                        }, 
+                        {
+                         "x":34,
+                         "y":31
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":731,
+                 "y":217.818181818182
                 }],
          "offsetx":0,
          "offsety":-1.81818181818181,
@@ -346,7 +386,7 @@
          "y":0
         }],
  "nextlayerid":32,
- "nextobjectid":20,
+ "nextobjectid":23,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
